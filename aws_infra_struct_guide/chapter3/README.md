@@ -6,3 +6,10 @@ sudo yum install stress -y
 
 stress --cpu 1 --timeout 600
 ```
+
+### Auto Scaling 그룹과 로드 밸런서를 통한 장애 조치
+```shell
+cd /opt/nginx/logs
+
+
+```
